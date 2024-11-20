@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/0.unity
+    guid: fb6fe21a53686624b93119ff3878ad03
+  - enabled: 0
+    path: Assets/Scenes/1.unity
+    guid: 906a1fbef553763469b07b30c899d653
+  - enabled: 1
+    path: Assets/Scenes/4.unity
+    guid: 4fc7e8c6e5bed7a48b73c2b4c4f04df8
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e026e015bafd2284ea0a99fd502b6d61, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 220657fe7a0f8274bbdc8db8892d2e93, type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 69192b3fe1563f347a2ff29c719ebbaf, type: 2}
+  m_UseUCBPForAssetBundles: 0
